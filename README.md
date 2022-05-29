@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin De la Fuente
 - 👀 Interested in Machine Learning/Deep Learning and cool projects of any kind
-- 🌱 Currently learning Ruby and JavaScript for web applications and PyTorch/Keras for deep learning
+- 🌱 Currently learning PyTorch/Keras for deep learning and Ruby + JavaScript for web applications
 - 💞️ Looking to collaborate on projects related to analytics or AppDev of rails applications
 - 📫 Reach out to me: kevin.delafuente@chicagobooth.edu
 
